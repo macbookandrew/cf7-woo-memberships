@@ -21,7 +21,8 @@ Adds Contact Form 7 entries as new users (if necessary) and grants them the spec
 1. Edit your contact forms to choose the membership ID and match up the correct fields
 
 ## Changelog ##
-
+### 1.2.2 ###
+Add membership in pause mode.
 ### 1.2.1 ###
 * Fix issue with ignore checkbox not hiding other fields
 
